@@ -1,0 +1,34 @@
+
+selection sort
+sort1 - reversed10000.txt
+        real    0m0.284s
+        user    0m0.205s
+        sys     0m0.025s
+
+      - reversed50000.txt
+        real    0m5.745s
+        user    0m4.951s
+        sys     0m0.234s
+
+
+merge sort - shortest time
+sort2 - reversed10000.txt
+        real    0m0.084s
+        user    0m0.005s
+        sys     0m0.039s
+
+      - reversed50000.txt
+        real    0m0.632s
+        user    0m0.051s
+        sys     0m0.160s
+
+bubble sort
+sort3 - reversed10000.txt
+        real    0m0.185s
+        user    0m0.103s
+        sys     0m0.043s
+
+      - reversed50000.txt
+        real    0m3.302s
+        user    0m2.623s
+        sys     0m0.210s
